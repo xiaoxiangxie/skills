@@ -1,0 +1,24 @@
+[submodule "skills/beautiful-html-templates"]
+	path = skills/beautiful-html-templates
+	url = https://github.com/clawhub/beautiful-html-templates
+[submodule "skills/frontend-slides"]
+	path = skills/frontend-slides
+	url = https://github.com/clawhub/frontend-slides
+[submodule "skills/guizang-ppt-skill"]
+	path = skills/guizang-ppt-skill
+	url = https://github.com/xiaoxiangxie/guizang-ppt-skill
+[submodule "skills/huashu-design"]
+	path = skills/huashu-design
+	url = https://github.com/xiaoxiangxie/huashu-design
+[submodule "skills/huashu-md-html"]
+	path = skills/huashu-md-html
+	url = https://github.com/xiaoxiangxie/huashu-md-html
+[submodule "skills/logo-generator"]
+	path = skills/logo-generator
+	url = https://github.com/xiaoxiangxie/logo-generator
+[submodule "skills/note-slides"]
+	path = skills/note-slides
+	url = https://github.com/xiaoxiangxie/note-slides
+[submodule "skills/skills-vote"]
+	path = skills/skills-vote
+	url = https://github.com/xiaoxiangxie/skills-vote
